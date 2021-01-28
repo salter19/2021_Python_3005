@@ -2,4 +2,5 @@
 *.pyc
 *.idea
 
+# Kojo examples
 Examples/
